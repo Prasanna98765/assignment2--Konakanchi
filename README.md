@@ -26,7 +26,7 @@ There are some amazing places to eat, shop, and hang out in Hyderabad. Some of t
       <title></title>
    </head>
    <body>
-      <h3>ROUTE</h3>
+      <h2>ROUTE</h2>
       <hr />
       <p>The closest airport to your food location in Hyderabad is the Rajiv Gandhi International Airport.
 This airport is located at Shamshabad, which is 8 km away from the city center of Hyderabad.The closest airport to Hyderabad is Hyderabad International Airport. It is about 20 miles away from the city center.There are many airports in Hyderabad, but the closest one would be the Rajiv Gandhi International Airport.
@@ -43,6 +43,22 @@ This airport is located at Shamshabad, which is 8 km away from the city center o
 
 Hyderabad has a lot of places to eat. Here are some places that are within walking distance from the airport.
 The nearest subway station is at Baiyyappanahalli and the nearest bus stop is at Hosur Main Road.
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Recommendations</h2>
+
+<ul style="list-style-type:disc;">
+  <li>Samosa</li>
+  <li>Biryani</li>
+  <li>Chai</li>
+</ul>  
+
+</body>
+</html>
+
 </p>
  
 
