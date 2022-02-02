@@ -23,7 +23,7 @@ There are some amazing places to eat, shop, and hang out in Hyderabad. Some of t
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML hr Tag</title>
+      <title></title>
    </head>
    <body>
       <h3>ROUTE</h3>
